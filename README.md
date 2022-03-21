@@ -1,6 +1,15 @@
-👋 My name is Katharina Hämmerl. I am a Visiting PhD student at LMU Munich in Computational Linguistics.
+👋 My name is Katharina Hämmerl. I am a PhD student at LMU Munich in Computational Linguistics, co-supervised by Alex Fraser and Jindřich Libovický.
 
-🌱 In my master's thesis I explored the language neutrality of multilingual BERT.
+🌱 In my master's thesis at CIS I explored the language neutrality of multilingual contextual models.
+
+📜 Publications:
+
+- Katharina Hämmerl, Jindřich Libovický, and Alexander Fraser. 2022.
+  [Static and Contextualised Multilingual Embeddings](https://arxiv.org/abs/2203.09326). To appear in Findings of ACL, 2022.
+
+- Katharina Hämmerl, Björn Deiseroth, Patrick Schramowski, Jindřich Libovický, Alexander Fraser, and Kristian Kersting. 2022.
+  [Do Multilingual Language Models Capture Differing Moral Norms?](https://arxiv.org/abs/2203.09904) (preprint) arXiv:2203.09904 \[cs.CL\]
+
 
 🚀 Other recent projects:
 
