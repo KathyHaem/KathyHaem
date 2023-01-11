@@ -6,7 +6,7 @@
 
 - Katharina Hämmerl, Jindřich Libovický, and Alexander Fraser. 2022.
   [Combining Static and Contextualised Multilingual Embeddings](https://arxiv.org/abs/2203.09326). Findings of ACL, 2022.
-- Katharina Hämmerl, Björn Deiseroth, Patrick Schramowski, Jindřich Libovický, Alexander Fraser, and Kristian Kersting. 2022.
+- Katharina Hämmerl, Björn Deiseroth, Patrick Schramowski, Jindřich Libovický, Constantin A. Rothkopf, Alexander Fraser, and Kristian Kersting. 2022.
   [Speaking Multiple Languages Affects the Moral Bias of Language Models](https://arxiv.org/abs/2211.07733) (preprint) arXiv:2211.07733 \[cs.CL\]
 
 
