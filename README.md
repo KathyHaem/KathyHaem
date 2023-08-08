@@ -4,10 +4,12 @@
 
 📜 Publications:
 
+- Katharina Hämmerl, Alina Fastowski, Jindřich Libovický, and Alexander Fraser. 2023.
+  [Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity](https://aclanthology.org/2023.findings-acl.439/).
+  Findings of ACL, 2023.
+- Katharina Hämmerl, Björn Deiseroth, Patrick Schramowski, Jindřich Libovický, Constantin Rothkopf, Alexander Fraser, and Kristian Kersting. 2023. [Speaking Multiple Languages Affects the Moral Bias of Language Models](https://aclanthology.org/2023.findings-acl.134/). Findings of ACL, 2023. 
 - Katharina Hämmerl, Jindřich Libovický, and Alexander Fraser. 2022.
   [Combining Static and Contextualised Multilingual Embeddings](https://arxiv.org/abs/2203.09326). Findings of ACL, 2022.
-- Katharina Hämmerl, Björn Deiseroth, Patrick Schramowski, Jindřich Libovický, Constantin A. Rothkopf, Alexander Fraser, and Kristian Kersting. 2022.
-  [Speaking Multiple Languages Affects the Moral Bias of Language Models](https://arxiv.org/abs/2211.07733) (preprint) arXiv:2211.07733 \[cs.CL\]
 
 
 🚀 Other recent projects:
