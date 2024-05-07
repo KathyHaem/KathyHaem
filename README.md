@@ -1,6 +1,8 @@
 👋 My name is Kathy Hämmerl. I am a PhD student at LMU Munich in Computational Linguistics, co-supervised by Alex Fraser and Jindřich Libovický (Charles University, Prague).
 My research interests are multilingual models, cross-lingual transfer, and how they function.
 
+I am currently on a research visit to Prague!
+
 📜 Publications:
 
 - Marion Di Marco, **Katharina Hämmerl**, and Alexander Fraser. 2023. [A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts](https://aclanthology.org/2023.emnlp-main.454/). EMNLP, 2023.
