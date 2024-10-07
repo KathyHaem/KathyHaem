@@ -2,8 +2,6 @@
 My research interests are multilingual models, cross-lingual transfer, and how they function.
 I'm affiliated with and supported by the [Munich Center for Machine Learning](https://mcml.ai).
 
-I am currently on a research visit to Prague!
-
 📜 Publications:
 
 - **Katharina Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2024. [Understanding Cross-Lingual Alignment---A Survey](https://arxiv.org/abs/2404.06228). To appear in Findings of ACL 2024.
