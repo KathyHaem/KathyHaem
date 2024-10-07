@@ -4,7 +4,7 @@ I'm affiliated with and supported by the [Munich Center for Machine Learning](ht
 
 📜 Publications:
 
-- **Katharina Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2024. [Understanding Cross-Lingual Alignment---A Survey](https://arxiv.org/abs/2404.06228). To appear in Findings of ACL 2024.
+- **Katharina Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2024. [Understanding Cross-Lingual Alignment---A Survey](https://aclanthology.org/2024.findings-acl.649/). Findings of ACL 2024.
 - Marion Di Marco, **Katharina Hämmerl**, and Alexander Fraser. 2023. [A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts](https://aclanthology.org/2023.emnlp-main.454/). EMNLP, 2023.
 - **Katharina Hämmerl**, Alina Fastowski, Jindřich Libovický, and Alexander Fraser. 2023.
   [Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity](https://aclanthology.org/2023.findings-acl.439/).
