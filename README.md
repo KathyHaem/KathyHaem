@@ -14,9 +14,9 @@ I'm affiliated with and supported by the [Munich Center for Machine Learning](ht
 - **Katharina Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2022.
   [Combining Static and Contextualised Multilingual Embeddings](https://arxiv.org/abs/2203.09326). Findings of ACL, 2022.
 
-🌱 In my master's thesis at CIS I explored the language neutrality of multilingual contextual models.
+🌱 In my master's thesis at CIS, I already explored getting (more) language-neutral representations in multilingual encoder models.
 
-🚀 Other projects:
+🚀 Older projects:
 
 - [GPT-3 Joke Generator](https://docs.google.com/presentation/d/1k6V32qJbgYs6SI961M3MkPdEW4GE4nT1LP_GNIagWvs) for [HackGPT](https://www.meetup.com/Natural-Language-Processing-Understanding-NLP-NLU/events/276054436/)
 - [DunkelzifferRadar](https://gitlab.gwdg.de/dunkelzifferradar)
