@@ -4,6 +4,7 @@ I'm affiliated with and supported by the [Munich Center for Machine Learning](ht
 
 📜 Publications:
 
+- **Katharina Hämmerl**, Andrei-Alexandru Manea, Gianluca Vico, Jindřich Helcl, Jindřich Libovický. 2024. [CUNI and LMU Submission to the MRL 2024 Shared Task on Multi-lingual Multi-task Information Retrieval](https://aclanthology.org/2024.mrl-1.29/). MRL 2024.
 - **Katharina Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2024. [Understanding Cross-Lingual Alignment---A Survey](https://aclanthology.org/2024.findings-acl.649/). Findings of ACL 2024.
 - Felix Friedrich, **Katharina Hämmerl**, Patrick Schramowski, Jindřich Libovický, Kristian Kersting, and Alexander Fraser. 2024. [Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You](https://arxiv.org/abs/2401.16092.pdf). preprint, arXiv:2401.16092.
 - Marion Di Marco, **Katharina Hämmerl**, and Alexander Fraser. 2023. [A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts](https://aclanthology.org/2023.emnlp-main.454/). EMNLP, 2023.
