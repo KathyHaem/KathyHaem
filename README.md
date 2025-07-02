@@ -1,11 +1,14 @@
 👋 My name is Kathy Hämmerl. I am a PhD student at LMU and TU Munich in Computational Linguistics, co-supervised by [Alex Fraser](https://alexfraser.github.io/) (TU Munich) and [Jindřich Libovický](https://ufal.mff.cuni.cz/jindrich-libovicky) (Charles University, Prague).
 My research interests are multilingual models, cross-lingual transfer, and how they function.
 I'm affiliated with and supported by the [Munich Center for Machine Learning](https://mcml.ai).
+Right now I'm on an internship in Berlin with the wonderful [Lilt](https://lilt.com).
 
 📜 Publications:
 
+- Felix Friedrich, **Katharina Hämmerl**, Patrick Schramowski, Manuel Brack, Jindrich Libovicky, Kristian Kersting, and Alexander Fraser. 2025. [Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You](https://arxiv.org/abs/2401.16092). To be published at ACL 2025.
+- Shu Okabe, **Katharina Hämmerl**, and Alexander Fraser. 2025. Improving Parallel Sentence Mining for Low-Resource and Endangered Languages. To be published at ACL 2025.
 - **Katharina Hämmerl**, Tomasz Limisiewicz, Jindřich Libovický, and Alexander Fraser. 2025.
-[Beyond Literal Token Overlap: Token Alignability for Multilinguality](https://arxiv.org/abs/2502.06468). To be published at NAACL 2025. 
+[Beyond Literal Token Overlap: Token Alignability for Multilinguality](https://aclanthology.org/2025.naacl-short.63/). NAACL 2025. 
 - **Katharina Hämmerl**, Andrei-Alexandru Manea, Gianluca Vico, Jindřich Helcl, Jindřich Libovický. 2024. [CUNI and LMU Submission to the MRL 2024 Shared Task on Multi-lingual Multi-task Information Retrieval](https://aclanthology.org/2024.mrl-1.29/). MRL 2024.
 - **Katharina Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2024. [Understanding Cross-Lingual Alignment---A Survey](https://aclanthology.org/2024.findings-acl.649/). Findings of ACL 2024.
 - Felix Friedrich, **Katharina Hämmerl**, Patrick Schramowski, Jindřich Libovický, Kristian Kersting, and Alexander Fraser. 2024. [Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You](https://arxiv.org/abs/2401.16092.pdf). preprint, arXiv:2401.16092.
