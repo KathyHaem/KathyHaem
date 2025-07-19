@@ -1,4 +1,4 @@
-👋 My name is Kathy Hämmerl. I am a PhD student at LMU and TU Munich in Computational Linguistics, co-supervised by [Alex Fraser](https://alexfraser.github.io/) (TU Munich) and [Jindřich Libovický](https://ufal.mff.cuni.cz/jindrich-libovicky) (Charles University, Prague).
+👋 My name is Kathy Hämmerl. I am a PhD student at TU Munich in Computer Science (though I spent much of my PhD at CIS, LMU). I'm supervised by [Alex Fraser](https://alexfraser.github.io/) (TU Munich) and mentored by [Jindřich Libovický](https://ufal.mff.cuni.cz/jindrich-libovicky) (Charles University, Prague).
 My research interests are multilingual models, cross-lingual transfer, and how they function.
 I'm affiliated with and supported by the [Munich Center for Machine Learning](https://mcml.ai).
 Right now I'm on an internship in Berlin with the wonderful [Lilt](https://lilt.com).
