@@ -6,13 +6,12 @@ During the second half of 2025 I was on an internship in Berlin with the wonderf
 📜 Publications:
 
 - Shu Okabe, Daryna Dementieva, Marion Di Marco, Lukas Edman, **Katharina Hämmerl**, Marko Měškank, Anita Hendrichowa, Alexander Fraser. 2025. [Findings of the WMT 2025 Shared Task LLMs with Limited Resources for Slavic Languages: MT and QA](https://aclanthology.org/2025.wmt-1.27/). WMT 2025.
-- Felix Friedrich, **Katharina Hämmerl**, Patrick Schramowski, Manuel Brack, Jindrich Libovicky, Kristian Kersting, and Alexander Fraser. 2025. [Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You](https://aclanthology.org/2025.acl-long.966/). ACL 2025.
+- Felix Friedrich, **Katharina Hämmerl**, Patrick Schramowski, Manuel Brack, Jindrich Libovicky, Kristian Kersting, and Alexander Fraser. 2025. [Multilingual Text-to-Image Generation Magnifies Gender Stereotypes](https://aclanthology.org/2025.acl-long.966/). ACL 2025.
 - Shu Okabe, **Katharina Hämmerl**, and Alexander Fraser. 2025. [Improving Parallel Sentence Mining for Low-Resource and Endangered Languages](https://aclanthology.org/2025.acl-short.17/). ACL 2025.
 - **Katharina Hämmerl**, Tomasz Limisiewicz, Jindřich Libovický, and Alexander Fraser. 2025.
 [Beyond Literal Token Overlap: Token Alignability for Multilinguality](https://aclanthology.org/2025.naacl-short.63/). NAACL 2025. 
 - **Katharina Hämmerl**, Andrei-Alexandru Manea, Gianluca Vico, Jindřich Helcl, Jindřich Libovický. 2024. [CUNI and LMU Submission to the MRL 2024 Shared Task on Multi-lingual Multi-task Information Retrieval](https://aclanthology.org/2024.mrl-1.29/). MRL 2024.
 - **Katharina Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2024. [Understanding Cross-Lingual Alignment---A Survey](https://aclanthology.org/2024.findings-acl.649/). Findings of ACL 2024.
-- Felix Friedrich, **Katharina Hämmerl**, Patrick Schramowski, Jindřich Libovický, Kristian Kersting, and Alexander Fraser. 2024. [Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You](https://arxiv.org/abs/2401.16092.pdf). preprint, arXiv:2401.16092.
 - Marion Di Marco, **Katharina Hämmerl**, and Alexander Fraser. 2023. [A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts](https://aclanthology.org/2023.emnlp-main.454/). EMNLP, 2023.
 - **Katharina Hämmerl**, Alina Fastowski, Jindřich Libovický, and Alexander Fraser. 2023.
   [Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity](https://aclanthology.org/2023.findings-acl.439/).
