@@ -3,22 +3,15 @@ My research interests are multilingual models, cross-lingual transfer, and how t
 I'm affiliated with and supported by the [Munich Center for Machine Learning](https://mcml.ai).
 During the second half of 2025 I was on an internship in Berlin with the wonderful [Lilt](https://lilt.com).
 
-📜 Publications:
+📜 Selected Publications:
 
-- Shu Okabe, Daryna Dementieva, Marion Di Marco, Lukas Edman, **Katharina Hämmerl**, Marko Měškank, Anita Hendrichowa, Alexander Fraser. 2025. [Findings of the WMT 2025 Shared Task LLMs with Limited Resources for Slavic Languages: MT and QA](https://aclanthology.org/2025.wmt-1.27/). WMT 2025.
-- Felix Friedrich, **Katharina Hämmerl**, Patrick Schramowski, Manuel Brack, Jindrich Libovicky, Kristian Kersting, and Alexander Fraser. 2025. [Multilingual Text-to-Image Generation Magnifies Gender Stereotypes](https://aclanthology.org/2025.acl-long.966/). ACL 2025.
-- Shu Okabe, **Katharina Hämmerl**, and Alexander Fraser. 2025. [Improving Parallel Sentence Mining for Low-Resource and Endangered Languages](https://aclanthology.org/2025.acl-short.17/). ACL 2025.
-- **Katharina Hämmerl**, Tomasz Limisiewicz, Jindřich Libovický, and Alexander Fraser. 2025.
+- **Kathy Hämmerl**, Gabriel Bretschner, and Joern Wuebker. 2026. [LocQE: Principled Domain Adaptation for Localisation Quality Estimation by Leveraging Post-Edits.](https://arxiv.org/abs/2609.18720) WMT 2026.
+- Adnan Al Ali, **Kathy Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2026. [Predicting Multilingual Classification and Translation Performance of LLMs with Cross-Lingual Alignment—Is English Enough?](https://arxiv.org/abs/2608.03446) EMNLP 2026.
+- **Kathy Hämmerl**, Tomasz Limisiewicz, Jindřich Libovický, and Alexander Fraser. 2025.
 [Beyond Literal Token Overlap: Token Alignability for Multilinguality](https://aclanthology.org/2025.naacl-short.63/). NAACL 2025. 
-- **Katharina Hämmerl**, Andrei-Alexandru Manea, Gianluca Vico, Jindřich Helcl, Jindřich Libovický. 2024. [CUNI and LMU Submission to the MRL 2024 Shared Task on Multi-lingual Multi-task Information Retrieval](https://aclanthology.org/2024.mrl-1.29/). MRL 2024.
-- **Katharina Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2024. [Understanding Cross-Lingual Alignment---A Survey](https://aclanthology.org/2024.findings-acl.649/). Findings of ACL 2024.
-- Marion Di Marco, **Katharina Hämmerl**, and Alexander Fraser. 2023. [A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts](https://aclanthology.org/2023.emnlp-main.454/). EMNLP, 2023.
-- **Katharina Hämmerl**, Alina Fastowski, Jindřich Libovický, and Alexander Fraser. 2023.
-  [Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity](https://aclanthology.org/2023.findings-acl.439/).
-  Findings of ACL, 2023.
-- **Katharina Hämmerl**, Björn Deiseroth, Patrick Schramowski, Jindřich Libovický, Constantin Rothkopf, Alexander Fraser, and Kristian Kersting. 2023. [Speaking Multiple Languages Affects the Moral Bias of Language Models](https://aclanthology.org/2023.findings-acl.134/). Findings of ACL, 2023. 
-- **Katharina Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2022.
-  [Combining Static and Contextualised Multilingual Embeddings](https://arxiv.org/abs/2203.09326). Findings of ACL, 2022.
+- **Kathy Hämmerl**, Andrei-Alexandru Manea, Gianluca Vico, Jindřich Helcl, Jindřich Libovický. 2024. [CUNI and LMU Submission to the MRL 2024 Shared Task on Multi-lingual Multi-task Information Retrieval](https://aclanthology.org/2024.mrl-1.29/). MRL 2024.
+- **Kathy Hämmerl**, Jindřich Libovický, and Alexander Fraser. 2024. [Understanding Cross-Lingual Alignment---A Survey](https://aclanthology.org/2024.findings-acl.649/). Findings of ACL 2024.
+- **Kathy Hämmerl**, Björn Deiseroth, Patrick Schramowski, Jindřich Libovický, Constantin Rothkopf, Alexander Fraser, and Kristian Kersting. 2023. [Speaking Multiple Languages Affects the Moral Bias of Language Models](https://aclanthology.org/2023.findings-acl.134/). Findings of ACL, 2023. 
 
 🌱 In my master's thesis at CIS, I already explored getting (more) language-neutral representations in multilingual encoder models.
 
